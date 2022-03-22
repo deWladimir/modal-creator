@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/modal.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+   <header class="header">
+       <img src="assets/kitten.jpg" id="left-side-img">
+       <p>Modal Creator</p>
+   </header>
+   <div class="form">
+       <div>
+           <label for="background-color">Background-color</label>
+           <input type="text" placeholder="#aaaaaa" id="background-color">
+       </div>
+       <div>
+            <label for="width">Width</label>
+           <input class="number" type="number" placeholder="Width" id="width">
+       </div>
+       <div>
+           <label for="header">Header Text</label>
+           <input type="text" placeholder="Header Text" id="header">
+       </div>
+       <div>
+           <label for="btn-qnty">Button quantity</label>
+           <input class="number" type="number" placeholder="Quantity" id="btn-qnty">
+       </div>
+       <div class="btn-div">
+           <button class="submit-btn">Submit</button>
+           <button class="reset-btn">Reset</button>
+       </div>
+    </div>
+   <script src="plugins/base.js"></script>
+   <script src="plugins/modal.js"></script>
+   <script src="index.js"></script>
+</body>
+</html>
+
