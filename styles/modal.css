@@ -21,17 +21,30 @@
     justify-content: space-between;
     align-items: center;
     background-color: white;
-
+    border: 1px solid lightgray;
+    border-radius: 40px;
 }
 
 .modal-header {
     display: flex;
     flex-direction: row;
+    margin-top: 10px;
 }
 
 .modal-footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 90%;
+    width: 70%;
+    margin-bottom: 20px;
 }
+
+.mdl-ftr-btn {
+    padding: 6px 15px;
+    background-color: rgb(84, 84, 163);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+}
+
