@@ -13,7 +13,7 @@ The list on the right side shows the amount of modals and the toggle-button allo
 
 To show the modal of the list press "Show" button
 
-(There is no checking if such a color combination exists - there is only the check on the '#aaaaaa' pattern)
+(There is no checking if such a background-color combination exists - there is only the check on the '#aaaaaa' pattern)
 
 ![Modal](https://user-images.githubusercontent.com/64546283/162683307-b9c3950c-aae6-4cd3-97c5-f265f1bb1e51.png)
 
