@@ -12,7 +12,9 @@ The list on the right side shows the amount of modals and the toggle-button allo
 ![List_disabled](https://user-images.githubusercontent.com/64546283/162683185-b0890600-9865-498b-a1fa-48199bdba922.png)
 
 To show the modal of the list press "Show" button
+
 (There is no checking if such a color combination exists - there is only the check on the '#aaaaaa' pattern)
+
 ![Modal](https://user-images.githubusercontent.com/64546283/162683307-b9c3950c-aae6-4cd3-97c5-f265f1bb1e51.png)
 
 
