@@ -1,7 +1,7 @@
 This is the start page.
 ![Main](https://user-images.githubusercontent.com/64546283/162682606-f12ebcb1-afc1-4465-8ea1-c1e28b8bf07b.png)
 
-On the left of ythe page you have the form to fill in with info and create a modal.
+On the left of the page you have the form to fill in with info and create a modal.
 
 ![Form](https://user-images.githubusercontent.com/64546283/162683112-dc47b5b9-105c-4df0-9bb0-b4a182280924.png)
 
